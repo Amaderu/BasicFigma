@@ -27,7 +27,8 @@
         android:layout_marginTop="100dp"
         android:fontFamily="@font/comfortaa"
         android:textFontWeight="400"
-        android:textSize="36dp"/>
+        android:textSize="36dp"
+        android:textColor="@android:color/black"/>
 
     <EditText
         android:id="@+id/editText"

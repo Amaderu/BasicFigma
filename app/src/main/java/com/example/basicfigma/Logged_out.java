@@ -14,7 +14,7 @@ public class Logged_out extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_logged_out);
         btnLog = (Button) findViewById(R.id.log);
         btnReg = (Button) findViewById(R.id.reg);
     }
